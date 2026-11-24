@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Jalankan deteksi.py",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/deteksi.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
